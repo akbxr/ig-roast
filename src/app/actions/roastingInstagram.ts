@@ -1,5 +1,3 @@
-// app/actions/roastInstagram.ts
-
 interface InstagramProfile {
   title?: string;
   bio?: string;
